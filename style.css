@@ -5,6 +5,7 @@
 }
 #status, #start, #number_of_objects{
     font-size: 18px;
+    margin: 1px;
 }
 .copy_right_footer{
     position: fixed;
